@@ -32,10 +32,9 @@ def novo_jogo():
         ppt()
     elif jogar == 'n':
         print()
-        print(' |-----------FIM DO JOGO----------|')
+        print('|-----------FIM DO JOGO----------|')
     else:
         print('Opcção inválida.')
-        print('JOGAR DE NOVO? (S/N): ')
         novo_jogo()
 
 ppt()

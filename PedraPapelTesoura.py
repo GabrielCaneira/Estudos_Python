@@ -4,6 +4,7 @@ print()
 print('ATENÇAO:')
 print('A escolha do computador é completamente aleatoria')
 print('A tua jogada não afecta a sua escolha')
+
 def ppt():
     opcoes = ['pedra', 'papel', 'tesoura']
 
